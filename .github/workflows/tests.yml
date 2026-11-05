@@ -1,0 +1,23 @@
+name: Tests
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  rules:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python: ['3.10', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -c "from pathlib import Path; import subprocess, sys; req=Path('requirements-official-simulator.txt'); subprocess.check_call([sys.executable, '-m', 'pip', 'install', '-r', str(req)]) if req.exists() else None"
+      - run: python -m unittest -v
+      - run: python run.py --strategy strategies.demo --cases cases/case_000.json --out results/ci
+      - run: python check_smoke.py results/ci/summary.csv

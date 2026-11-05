@@ -1,0 +1,680 @@
+{
+  "command": "python -X utf8 experiments/audit_q4_entry.py",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "branch": "fix/sim-q4-entry-audit",
+  "historical_commit": "f3b934c6defab4258ad432ce6fe18ac7f346fc31",
+  "baseline_variant": "Q4_STABLE15",
+  "source_hashes": {
+    "q4/__init__.py": "7f6a06531581e3dc8fc30aec78bed39d3babd228e750ad2dc564ba623a56b991",
+    "q4/controller.py": "ff6420e44d8d1765dd13cd09b3705eb489f0d548b1da312e585864273c131c96",
+    "q4/geometry.py": "1819d57dcf69516850f9c83a2832da92411a5b8b79d3ba70f436f496120e01e9",
+    "q4/simulator.py": "7f9cfc403302c7862ca22e8c114e8ad99581f38b9f302c6c72f2fe795154d1aa",
+    "q4_stable/__init__.py": "ca67b535241fdfce9d37ca5f7aaa95015dd2cd9bb648ef980cdc44be9985cb7b",
+    "q4_stable/controller.py": "e50d4010d2bba05f319105f807e91795409548c4c4a02f0ad40638d3e9c86f73",
+    "q4_stable/coverage.py": "259f6cf8c810692daa09fc0dfa65bf59b000e9d6196c5bf3c5a09755fa2dfe39",
+    "q4_stable/cover_8.json": "44f9a8643d0bd2cbbb6ba4a7d3a0b31736976d091c539dc4637b4a1caa897da3",
+    "strategies/d/geometry.py": "0b89116a274de06ca989fda6aeab3dd99b35d1ff13befe7e78f204569c09b503",
+    "run_q4_stability_official.py": "a43fbce72d5abaa6fcc2d5324ebcab9098f048f8973395681c362df2e0c2cb61",
+    "q3/official_http_api.py": "cc4e413abbce91c1318cf08ebe4c25f9b429140a0c6c01eea453c0e4792a99f2"
+  },
+  "historical_git_scope": [
+    "q4",
+    "q4_stable",
+    "simulator.py",
+    "strategies/__init__.py",
+    "strategies/d/__init__.py",
+    "strategies/d/geometry.py",
+    "q3/__init__.py",
+    "q3/official_http_api.py",
+    "run_q4_stability_official.py",
+    "experiments/run_q4.py",
+    "experiments/run_q4_stability.py",
+    "experiments/audit_q4_stability.py",
+    "experiments/q4_stability_freeze.json"
+  ],
+  "historical_git_diff": "",
+  "frozen_and_holdout_hashes_match": true,
+  "historical_case_sha256_matches": 240,
+  "per_case_performance_exact_matches": 240,
+  "compared_fields": [
+    "sha256",
+    "profile",
+    "variant",
+    "error_mode",
+    "total_sources",
+    "cleared",
+    "cleared_fraction",
+    "virtual_time_s",
+    "average_clear_time_s",
+    "distance_m",
+    "measure",
+    "switch",
+    "clear_success",
+    "clear_fail",
+    "error",
+    "diagnostics",
+    "audit",
+    "phase_s",
+    "p0",
+    "seconds_per_source"
+  ],
+  "reproduced_summary": {
+    "cases": 240,
+    "complete_cases": 240,
+    "sources": 3120,
+    "cleared": 3120,
+    "audit": {
+      "missed_sources": 0,
+      "false_exclusions": 0,
+      "uncertified_clears": 0,
+      "failed_clears": 0,
+      "contract_errors": 0,
+      "truth_outside_enclosure": 0,
+      "timing_errors": 0
+    },
+    "source_clear_rate": 1.0,
+    "mean": 511.25609368574794,
+    "median": 524.9416864581242,
+    "p75": 627.4831449211385,
+    "p95": 694.7649511222688,
+    "worst": 763.2000205444804,
+    "weighted": 488.0431393170761,
+    "time_rank_valid": true,
+    "totals": {
+      "virtual_time_s": 1522694.5946692775,
+      "distance_m": 5348512.973346387,
+      "measure": 74882,
+      "switch": 62982,
+      "clear_success": 3120,
+      "wall_s": 10.329198500243365
+    },
+    "per_source": {
+      "movement_s": 342.8533957273325,
+      "measure_s": 120.00320512820512,
+      "switch_s": 20.18653846153846,
+      "clear_s": 5.0
+    },
+    "phase_per_source": {
+      "search": 334.096758513805,
+      "localization": 119.44400416585333,
+      "reacquisition": 2.540020303581434,
+      "shared_view": 2.479807692307692,
+      "clear": 29.48254864152862,
+      "fallback": 0.0
+    },
+    "metrics_distribution": {
+      "virtual_time_s": {
+        "mean": 6344.56081112199,
+        "median": 6477.7341287546105,
+        "p75": 6863.944110921416,
+        "p95": 7491.95864939295,
+        "worst": 8473.25295973475
+      },
+      "distance_m": {
+        "mean": 22285.470722276612,
+        "median": 22571.54570702622,
+        "p75": 24132.107437913757,
+        "p95": 26475.9885655303,
+        "worst": 29201.26479867375
+      },
+      "measure": {
+        "mean": 312.0083333333333,
+        "median": 321.0,
+        "p75": 354.5,
+        "p95": 402.0,
+        "worst": 437
+      },
+      "switch": {
+        "mean": 262.425,
+        "median": 270.5,
+        "p75": 302.0,
+        "p95": 358.0,
+        "worst": 395
+      },
+      "clear_success": {
+        "mean": 13.0,
+        "median": 13.0,
+        "p75": 15.25,
+        "p95": 16.0,
+        "worst": 16
+      },
+      "wall_s": {
+        "mean": 0.04303832708434736,
+        "median": 0.041880799988575745,
+        "p75": 0.046437124994554324,
+        "p95": 0.05370690499185002,
+        "worst": 0.35254329998861067
+      }
+    },
+    "phase_distribution": {
+      "search": {
+        "mean": 4343.257860679465,
+        "median": 4532.827871379259,
+        "p75": 4941.355731075803,
+        "p95": 5411.664182099245,
+        "worst": 5852.967199795519
+      },
+      "localization": {
+        "mean": 1552.7720541560932,
+        "median": 1527.8190580561188,
+        "p75": 1931.726100607982,
+        "p95": 2567.4039620013996,
+        "worst": 3231.9906990866325
+      },
+      "reacquisition": {
+        "mean": 33.02026394655864,
+        "median": 21.28419551257207,
+        "p75": 41.54635997725541,
+        "p95": 114.08021275579607,
+        "worst": 196.45850570359238
+      },
+      "shared_view": {
+        "mean": 32.2375,
+        "median": 24.0,
+        "p75": 40.0,
+        "p95": 102.44999999999985,
+        "worst": 312.0
+      },
+      "clear": {
+        "mean": 383.27313233987206,
+        "median": 310.85071014666516,
+        "p75": 496.204501063263,
+        "p95": 919.3574435540467,
+        "worst": 1203.664227570603
+      },
+      "fallback": {
+        "mean": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p95": 0.0,
+        "worst": 0.0
+      }
+    },
+    "p90": 668.046966976792,
+    "p99": 736.9047507608267,
+    "cvar95": 719.1696940666316
+  },
+  "ten_source_summary": {
+    "cases": 60,
+    "complete_cases": 60,
+    "sources": 600,
+    "cleared": 600,
+    "audit": {
+      "missed_sources": 0,
+      "false_exclusions": 0,
+      "uncertified_clears": 0,
+      "failed_clears": 0,
+      "contract_errors": 0,
+      "truth_outside_enclosure": 0,
+      "timing_errors": 0
+    },
+    "source_clear_rate": 1.0,
+    "mean": 653.7487072168218,
+    "median": 647.7734128754611,
+    "p75": 685.6330636231734,
+    "p95": 719.2791201570927,
+    "worst": 763.2000205444804,
+    "weighted": 653.7487072168218,
+    "time_rank_valid": true,
+    "totals": {
+      "virtual_time_s": 392249.2243300931,
+      "distance_m": 1342296.1216504653,
+      "measure": 20553,
+      "switch": 18025,
+      "clear_success": 600,
+      "wall_s": 2.5472377000551205
+    },
+    "per_source": {
+      "movement_s": 447.43204055015514,
+      "measure_s": 171.275,
+      "switch_s": 30.041666666666668,
+      "clear_s": 5.0
+    },
+    "phase_per_source": {
+      "search": 491.127741129782,
+      "localization": 131.60132015337928,
+      "reacquisition": 2.6395293795568504,
+      "shared_view": 1.8633333333333333,
+      "clear": 26.516783220770296,
+      "fallback": 0.0
+    },
+    "metrics_distribution": {
+      "virtual_time_s": {
+        "mean": 6537.487072168218,
+        "median": 6477.7341287546105,
+        "p75": 6856.330636231734,
+        "p95": 7192.791201570927,
+        "worst": 7632.000205444803
+      },
+      "distance_m": {
+        "mean": 22371.602027507754,
+        "median": 21976.189547748785,
+        "p75": 23246.74070527487,
+        "p95": 25274.806709944012,
+        "worst": 26071.543346075294
+      },
+      "measure": {
+        "mean": 342.55,
+        "median": 347.5,
+        "p75": 368.5,
+        "p95": 412.2,
+        "worst": 422
+      },
+      "switch": {
+        "mean": 300.4166666666667,
+        "median": 300.0,
+        "p75": 321.25,
+        "p95": 365.69999999999993,
+        "worst": 389
+      },
+      "clear_success": {
+        "mean": 10.0,
+        "median": 10.0,
+        "p75": 10.0,
+        "p95": 10.0,
+        "worst": 10
+      },
+      "wall_s": {
+        "mean": 0.04245396166758534,
+        "median": 0.03729670000029728,
+        "p75": 0.04162412499135826,
+        "p95": 0.04578751499429927,
+        "worst": 0.35254329998861067
+      }
+    },
+    "phase_distribution": {
+      "search": {
+        "mean": 4911.27741129782,
+        "median": 4872.48346482148,
+        "p75": 5044.161088488946,
+        "p95": 5527.87536528973,
+        "worst": 5852.967199795519
+      },
+      "localization": {
+        "mean": 1316.0132015337927,
+        "median": 1370.9609277136813,
+        "p75": 1565.5473533129816,
+        "p95": 2072.1076064639,
+        "worst": 2446.5541758507716
+      },
+      "reacquisition": {
+        "mean": 26.395293795568502,
+        "median": 18.215058418842897,
+        "p75": 33.25819505213528,
+        "p95": 93.62604887175529,
+        "worst": 107.5767852717597
+      },
+      "shared_view": {
+        "mean": 18.633333333333333,
+        "median": 12.0,
+        "p75": 30.0,
+        "p95": 65.34999999999998,
+        "worst": 111.0
+      },
+      "clear": {
+        "mean": 265.167832207703,
+        "median": 230.30008565168094,
+        "p75": 361.17627826489246,
+        "p95": 685.1248313737991,
+        "worst": 851.0782325856601
+      },
+      "fallback": {
+        "mean": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p95": 0.0,
+        "worst": 0.0
+      }
+    },
+    "p90": 711.6291866738541,
+    "p99": 757.5396503019126,
+    "cvar95": 755.3286455743051
+  },
+  "ten_source_mean_phase_per_source": {
+    "search": 491.127741129782,
+    "localization": 131.60132015337928,
+    "reacquisition": 2.6395293795568504,
+    "shared_view": 1.8633333333333333,
+    "clear": 26.5167832207703,
+    "fallback": 0.0
+  },
+  "official_replays": [
+    {
+      "folder": "results/q4_stability_official_rehearsal/20260912_205257_949227",
+      "variant": "Q4_STABLE15",
+      "normal_exit": true,
+      "cleared": 10,
+      "virtual_time_s": 8297.163324,
+      "seconds_per_cleared_source": 829.7163323999999,
+      "source_total_not_in_transcript": true,
+      "frozen_hashes_match": true,
+      "canonical_entry_exact_replay": true,
+      "diagnostics": {
+        "reacquisition_calls": 0,
+        "reacquisition_probes": 0,
+        "max_local_steps": 12,
+        "emergency": 0,
+        "fork_rounds": 80,
+        "fork_negative_cuts": 12,
+        "kernel_rounds": 13,
+        "kernel_sources": 6,
+        "max_kernel_ratio": 0.5005382646628698
+      },
+      "retries": 0,
+      "independent_audit": {
+        "clears": 10,
+        "fork_cuts": 12,
+        "actions": 403,
+        "failures": 0
+      },
+      "phase_s": {
+        "search": 5604.488923391229,
+        "localization": 2470.68368045707,
+        "reacquisition": 75.70811385015276,
+        "clear": 134.28260277505763,
+        "shared_view": 12.0
+      },
+      "components_s": {
+        "movement_s": 5974.163320473511,
+        "measure_s": 1965,
+        "switch_s": 308,
+        "clear_s": 50
+      },
+      "counts": {
+        "measure": 393,
+        "no_signal": 307,
+        "direction": 86,
+        "clear": 10,
+        "success": 10
+      },
+      "source_service_s": {
+        "10": 392.2567085362116,
+        "6": 162.02776812916505,
+        "18": 314.57609163709094,
+        "7": 202.08978977918864,
+        "13": 188.44954582908184,
+        "3": 409.7162181924923,
+        "12": 64.59079821844496,
+        "19": 221.62682606244897,
+        "14": 364.654586821105,
+        "1": 360.6860638770517
+      },
+      "reconstructed_s": 8297.163320473512,
+      "max_cumulative_timing_error_s": 4.072817318956368e-06,
+      "after_last_clear_s": 1750.1859259999992
+    },
+    {
+      "folder": "results/q4_stability_official_rehearsal/20260912_205343_878046",
+      "variant": "Q4_STABLE15",
+      "normal_exit": true,
+      "cleared": 11,
+      "virtual_time_s": 6621.155805,
+      "seconds_per_cleared_source": 601.923255,
+      "source_total_not_in_transcript": true,
+      "frozen_hashes_match": true,
+      "canonical_entry_exact_replay": true,
+      "diagnostics": {
+        "reacquisition_calls": 0,
+        "reacquisition_probes": 0,
+        "max_local_steps": 9,
+        "emergency": 0,
+        "fork_rounds": 66,
+        "fork_negative_cuts": 3,
+        "kernel_rounds": 3,
+        "kernel_sources": 3,
+        "max_kernel_ratio": 0.5000147361787208
+      },
+      "retries": 0,
+      "independent_audit": {
+        "clears": 11,
+        "fork_cuts": 3,
+        "actions": 332,
+        "failures": 0
+      },
+      "phase_s": {
+        "search": 4341.144403208674,
+        "localization": 2097.1994071558565,
+        "reacquisition": 17.866300011998,
+        "clear": 158.9456933066253,
+        "shared_view": 6.0
+      },
+      "components_s": {
+        "movement_s": 4700.155803683154,
+        "measure_s": 1605,
+        "switch_s": 261,
+        "clear_s": 55
+      },
+      "counts": {
+        "measure": 321,
+        "no_signal": 242,
+        "direction": 77,
+        "near": 2,
+        "clear": 11,
+        "success": 11
+      },
+      "source_service_s": {
+        "15": 172.1105333227954,
+        "16": 179.44309609325626,
+        "8": 177.29990671731957,
+        "17": 70.44525013218082,
+        "18": 176.9239326723553,
+        "6": 181.1187449612106,
+        "10": 82.17387045587607,
+        "1": 265.26105000885764,
+        "3": 353.3300928747012,
+        "9": 213.1526120871995,
+        "12": 402.75231114872713
+      },
+      "reconstructed_s": 6621.155803683154,
+      "max_cumulative_timing_error_s": 1.80220104084583e-06,
+      "after_last_clear_s": 2048.8629070000006
+    },
+    {
+      "folder": "results/q4_stability_official_rehearsal/20260912_205409_891854",
+      "variant": "Q4_STABLE15",
+      "normal_exit": true,
+      "cleared": 11,
+      "virtual_time_s": 6679.240871,
+      "seconds_per_cleared_source": 607.2037155454545,
+      "source_total_not_in_transcript": true,
+      "frozen_hashes_match": true,
+      "canonical_entry_exact_replay": true,
+      "diagnostics": {
+        "reacquisition_calls": 0,
+        "reacquisition_probes": 0,
+        "max_local_steps": 9,
+        "emergency": 0,
+        "fork_rounds": 38,
+        "fork_negative_cuts": 1,
+        "kernel_rounds": 3,
+        "kernel_sources": 3,
+        "max_kernel_ratio": 0.3552745538303464
+      },
+      "retries": 0,
+      "independent_audit": {
+        "clears": 11,
+        "fork_cuts": 1,
+        "actions": 323,
+        "failures": 0
+      },
+      "phase_s": {
+        "search": 4993.562958199784,
+        "localization": 1015.9294875564696,
+        "reacquisition": 16.117281510959167,
+        "clear": 641.6311435917246,
+        "shared_view": 12.0
+      },
+      "components_s": {
+        "movement_s": 4789.240870858936,
+        "measure_s": 1560,
+        "switch_s": 275,
+        "clear_s": 55
+      },
+      "counts": {
+        "measure": 312,
+        "no_signal": 251,
+        "direction": 58,
+        "near": 3,
+        "clear": 11,
+        "success": 11
+      },
+      "source_service_s": {
+        "6": 196.43163701368115,
+        "13": 64.5563517832256,
+        "8": 121.34198317325372,
+        "20": 199.15063692564456,
+        "11": 128.77147092600043,
+        "5": 173.18345604237993,
+        "2": 267.5648618706893,
+        "1": 58.288739635666346,
+        "15": 65.18071993025237,
+        "9": 157.7988370851237,
+        "18": 241.409218273236
+      },
+      "reconstructed_s": 6679.240870858936,
+      "max_cumulative_timing_error_s": 1.6597341527813114e-06,
+      "after_last_clear_s": 1038.5854209999998
+    },
+    {
+      "folder": "results/q4_stability_official_rehearsal/20260912_205435_774414",
+      "variant": "Q4_STABLE15",
+      "normal_exit": true,
+      "cleared": 16,
+      "virtual_time_s": 5834.546757,
+      "seconds_per_cleared_source": 364.6591723125,
+      "source_total_not_in_transcript": true,
+      "frozen_hashes_match": true,
+      "canonical_entry_exact_replay": true,
+      "diagnostics": {
+        "reacquisition_calls": 0,
+        "reacquisition_probes": 0,
+        "max_local_steps": 12,
+        "emergency": 0,
+        "fork_rounds": 63,
+        "fork_negative_cuts": 6,
+        "kernel_rounds": 9,
+        "kernel_sources": 5,
+        "max_kernel_ratio": 0.5005382733884476
+      },
+      "retries": 0,
+      "independent_audit": {
+        "clears": 16,
+        "fork_cuts": 6,
+        "actions": 269,
+        "failures": 0
+      },
+      "phase_s": {
+        "search": 2780.5160195391563,
+        "localization": 2246.478656248545,
+        "reacquisition": 34.11324998570249,
+        "clear": 755.4388339318947,
+        "shared_view": 18.0
+      },
+      "components_s": {
+        "movement_s": 4297.5467597052975,
+        "measure_s": 1265,
+        "switch_s": 192,
+        "clear_s": 80
+      },
+      "counts": {
+        "measure": 253,
+        "no_signal": 166,
+        "direction": 83,
+        "clear": 16,
+        "success": 16,
+        "near": 4
+      },
+      "source_service_s": {
+        "12": 381.03246949091283,
+        "1": 119.21873641900171,
+        "16": 92.94005130493291,
+        "14": 260.7818477715696,
+        "8": 115.01361007801083,
+        "3": 401.85946757036095,
+        "17": 97.59957523554063,
+        "18": 172.0868828830719,
+        "13": 62.385889718857996,
+        "15": 151.6940351583636,
+        "19": 364.6063292003061,
+        "10": 83.55640290397157,
+        "5": 128.40847245166722,
+        "7": 102.71873370765745,
+        "4": 202.99693400492578,
+        "9": 299.1313022669909
+      },
+      "reconstructed_s": 5834.5467597052975,
+      "max_cumulative_timing_error_s": 4.98118060932029e-06,
+      "after_last_clear_s": 0.0
+    },
+    {
+      "folder": "results/q4_stability_official_rehearsal/20260912_205721_475667",
+      "variant": "Q4_STABLE15",
+      "normal_exit": true,
+      "cleared": 13,
+      "virtual_time_s": 6338.873338,
+      "seconds_per_cleared_source": 487.6056413846154,
+      "source_total_not_in_transcript": true,
+      "frozen_hashes_match": true,
+      "canonical_entry_exact_replay": true,
+      "diagnostics": {
+        "reacquisition_calls": 0,
+        "reacquisition_probes": 0,
+        "max_local_steps": 9,
+        "emergency": 0,
+        "fork_rounds": 42,
+        "fork_negative_cuts": 2,
+        "kernel_rounds": 2,
+        "kernel_sources": 2,
+        "max_kernel_ratio": 0.5000783322160339
+      },
+      "retries": 0,
+      "independent_audit": {
+        "clears": 13,
+        "fork_cuts": 2,
+        "actions": 303,
+        "failures": 0
+      },
+      "phase_s": {
+        "search": 4339.875555357254,
+        "localization": 1455.2000396699284,
+        "reacquisition": 37.76191028368284,
+        "clear": 488.0358384970795,
+        "shared_view": 18.0
+      },
+      "components_s": {
+        "movement_s": 4572.8733438079435,
+        "measure_s": 1450,
+        "switch_s": 251,
+        "clear_s": 65
+      },
+      "counts": {
+        "measure": 290,
+        "no_signal": 206,
+        "direction": 84,
+        "clear": 13,
+        "success": 13
+      },
+      "source_service_s": {
+        "14": 224.665241153392,
+        "11": 268.5650720566649,
+        "3": 236.9558447207288,
+        "8": 188.4880566176727,
+        "10": 160.0663056930048,
+        "17": 41.91377088705392,
+        "15": 183.65335174696872,
+        "18": 57.41732155411355,
+        "16": 140.8576134511047,
+        "4": 154.26892645171998,
+        "7": 118.60234148034161,
+        "12": 90.1645302811165,
+        "2": 115.37941235680823
+      },
+      "reconstructed_s": 6338.8733438079435,
+      "max_cumulative_timing_error_s": 5.842565769853536e-06,
+      "after_last_clear_s": 656.41633
+    }
+  ],
+  "official_http_requests_sent": 0,
+  "entry_change": "run_q4_official now delegates to unchanged frozen stable runner; --run and --exercise are aliases",
+  "limitation": "Historical 240-case regression, not a new holdout or a universal time bound. Official source totals/types require UI evidence."
+}

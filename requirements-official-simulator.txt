@@ -1,0 +1,2 @@
+# Official simulator HTTP adapter and runners.
+requests==2.34.2

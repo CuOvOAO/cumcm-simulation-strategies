@@ -1,0 +1,8 @@
+{
+  "variant": "Q4_STABLE15",
+  "created_utc": "2026-09-11T18:51:34.742680+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "source_hashes": {"q4/__init__.py":"7f6a06531581e3dc8fc30aec78bed39d3babd228e750ad2dc564ba623a56b991","q4/controller.py":"ff6420e44d8d1765dd13cd09b3705eb489f0d548b1da312e585864273c131c96","q4/geometry.py":"1819d57dcf69516850f9c83a2832da92411a5b8b79d3ba70f436f496120e01e9","q4/simulator.py":"7f9cfc403302c7862ca22e8c114e8ad99581f38b9f302c6c72f2fe795154d1aa","q4_stable/__init__.py":"ca67b535241fdfce9d37ca5f7aaa95015dd2cd9bb648ef980cdc44be9985cb7b","q4_stable/controller.py":"ee3505b2fdae50f13baf1e76fa9ce2fdedd1010aeaf54781466565b3dc251e28","q4_stable/coverage.py":"259f6cf8c810692daa09fc0dfa65bf59b000e9d6196c5bf3c5a09755fa2dfe39","q4_stable/cover_8.json":"44f9a8643d0bd2cbbb6ba4a7d3a0b31736976d091c539dc4637b4a1caa897da3","strategies/d/geometry.py":"0b89116a274de06ca989fda6aeab3dd99b35d1ff13befe7e78f204569c09b503","run_q4_stability_official.py":"a43fbce72d5abaa6fcc2d5324ebcab9098f048f8973395681c362df2e0c2cb61","q3/official_http_api.py":"cc4e413abbce91c1318cf08ebe4c25f9b429140a0c6c01eea453c0e4792a99f2"},
+  "selection": "96 tuning cases; fraction 0.15 minimizes worst among close P95 contenders; normal 8 plus kernel 8; holdout not yet generated or read",
+  "holdout": {"seed":39841729,"count":240,"profiles":12,"counts":[10,11,15,16]}
+}

@@ -1,0 +1,9 @@
+{
+  "tests": 112,
+  "test_suites": {"results_tests_root.log":38,"results_tests_shared.log":74},
+  "test_log_sha256": {"results_tests_root.log":"ff58bf4b462bad363bf5fd23e9b2d7489af5b58351e213e29c5101462ee6bf7f","results_tests_shared.log":"e80519ea3bc70ad09fab3a6bd7b47399e185722ce50ac63b964840aa15448f3c"},
+  "freeze_matches_final_holdout": true,
+  "audit": {"cases":1616,"clears":21004,"fork_cuts":8676,"actions":545404,"failures":0,"precision":50},
+  "official_network_started": false,
+  "correctness_regression": {"files":2272,"changed":[],"all_identical":true}
+}

@@ -1,0 +1,120 @@
+{
+  "method": "Exact Held-Karp open path on pairwise 20m-disc relaxed distances; not a realizable tour.",
+  "lb0": "optimistic movement plus 5s/source clear",
+  "lb2": "LB0 plus one 5s/source observation; certified policy class only",
+  "no_additive_search_bound": "Search and localization movement overlap with visiting; no double-counted LB1/LB3 claimed.",
+  "rows": [
+    {
+      "case": "case_000.json",
+      "sources": 10,
+      "relaxed_path_m": 7421.421332078943,
+      "lb0_s_per_source": 153.42842664157885,
+      "lb2_s_per_source": 158.42842664157885
+    },
+    {
+      "case": "case_001.json",
+      "sources": 11,
+      "relaxed_path_m": 6180.9942576678195,
+      "lb0_s_per_source": 117.38171377577852,
+      "lb2_s_per_source": 122.38171377577852
+    },
+    {
+      "case": "case_002.json",
+      "sources": 12,
+      "relaxed_path_m": 7356.8854026773915,
+      "lb0_s_per_source": 127.61475671128987,
+      "lb2_s_per_source": 132.61475671128989
+    },
+    {
+      "case": "case_003.json",
+      "sources": 13,
+      "relaxed_path_m": 10274.137038621873,
+      "lb0_s_per_source": 163.06364674802882,
+      "lb2_s_per_source": 168.06364674802882
+    },
+    {
+      "case": "case_004.json",
+      "sources": 14,
+      "relaxed_path_m": 1632.6203214234718,
+      "lb0_s_per_source": 28.32314744890674,
+      "lb2_s_per_source": 33.32314744890674
+    },
+    {
+      "case": "case_005.json",
+      "sources": 15,
+      "relaxed_path_m": 1497.7324985602847,
+      "lb0_s_per_source": 24.969766647470465,
+      "lb2_s_per_source": 29.969766647470465
+    },
+    {
+      "case": "case_006.json",
+      "sources": 16,
+      "relaxed_path_m": 10754.142105301898,
+      "lb0_s_per_source": 139.42677631627373,
+      "lb2_s_per_source": 144.42677631627373
+    },
+    {
+      "case": "case_007.json",
+      "sources": 10,
+      "relaxed_path_m": 9394.31318691082,
+      "lb0_s_per_source": 192.8862637382164,
+      "lb2_s_per_source": 197.8862637382164
+    },
+    {
+      "case": "case_008.json",
+      "sources": 12,
+      "relaxed_path_m": 8883.410651241626,
+      "lb0_s_per_source": 153.05684418736044,
+      "lb2_s_per_source": 158.05684418736044
+    },
+    {
+      "case": "case_009.json",
+      "sources": 13,
+      "relaxed_path_m": 7587.663201310232,
+      "lb0_s_per_source": 121.73328002015741,
+      "lb2_s_per_source": 126.73328002015741
+    },
+    {
+      "case": "case_010.json",
+      "sources": 14,
+      "relaxed_path_m": 8258.62987877702,
+      "lb0_s_per_source": 122.98042683967171,
+      "lb2_s_per_source": 127.98042683967171
+    },
+    {
+      "case": "case_011.json",
+      "sources": 15,
+      "relaxed_path_m": 10322.769977253696,
+      "lb0_s_per_source": 142.6369330300493,
+      "lb2_s_per_source": 147.6369330300493
+    },
+    {
+      "case": "case_012.json",
+      "sources": 16,
+      "relaxed_path_m": 1632.5989342958137,
+      "lb0_s_per_source": 25.407486678697673,
+      "lb2_s_per_source": 30.407486678697673
+    },
+    {
+      "case": "case_013.json",
+      "sources": 10,
+      "relaxed_path_m": 1387.6894614979742,
+      "lb0_s_per_source": 32.75378922995948,
+      "lb2_s_per_source": 37.75378922995948
+    },
+    {
+      "case": "case_014.json",
+      "sources": 11,
+      "relaxed_path_m": 9869.953279737252,
+      "lb0_s_per_source": 184.45369599522277,
+      "lb2_s_per_source": 189.45369599522277
+    },
+    {
+      "case": "case_015.json",
+      "sources": 12,
+      "relaxed_path_m": 10069.193858966064,
+      "lb0_s_per_source": 172.8198976494344,
+      "lb2_s_per_source": 177.8198976494344
+    }
+  ]
+}

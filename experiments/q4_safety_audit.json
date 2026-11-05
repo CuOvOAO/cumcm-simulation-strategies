@@ -1,0 +1,4210 @@
+{
+  "cases": 600,
+  "clears": 7756,
+  "fork_cuts": 6712,
+  "actions": 220138,
+  "failures": 0,
+  "precision": 50,
+  "rows": [
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_000",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 372,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_001",
+      "clears": 11,
+      "fork_cuts": 8,
+      "actions": 367,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_002",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_003",
+      "clears": 13,
+      "fork_cuts": 50,
+      "actions": 561,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_004",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 273,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_005",
+      "clears": 15,
+      "fork_cuts": 11,
+      "actions": 234,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_006",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_007",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 460,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_008",
+      "clears": 12,
+      "fork_cuts": 17,
+      "actions": 395,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_009",
+      "clears": 13,
+      "fork_cuts": 18,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_010",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 313,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_011",
+      "clears": 15,
+      "fork_cuts": 49,
+      "actions": 569,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_012",
+      "clears": 16,
+      "fork_cuts": 20,
+      "actions": 190,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_013",
+      "clears": 10,
+      "fork_cuts": 11,
+      "actions": 332,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_014",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 396,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_015",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 367,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_016",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 371,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_017",
+      "clears": 15,
+      "fork_cuts": 15,
+      "actions": 338,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_018",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 224,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_019",
+      "clears": 10,
+      "fork_cuts": 29,
+      "actions": 526,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_020",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 318,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_021",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 410,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_022",
+      "clears": 13,
+      "fork_cuts": 13,
+      "actions": 402,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_023",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_024",
+      "clears": 16,
+      "fork_cuts": 12,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_025",
+      "clears": 10,
+      "fork_cuts": 8,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_026",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 326,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_027",
+      "clears": 12,
+      "fork_cuts": 30,
+      "actions": 505,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_028",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 341,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_029",
+      "clears": 14,
+      "fork_cuts": 2,
+      "actions": 265,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_030",
+      "clears": 15,
+      "fork_cuts": 4,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_031",
+      "clears": 16,
+      "fork_cuts": 7,
+      "actions": 300,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_032",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 360,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_033",
+      "clears": 12,
+      "fork_cuts": 15,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_034",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 342,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_035",
+      "clears": 14,
+      "fork_cuts": 42,
+      "actions": 547,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_036",
+      "clears": 15,
+      "fork_cuts": 0,
+      "actions": 257,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_037",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 114,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_038",
+      "clears": 10,
+      "fork_cuts": 10,
+      "actions": 434,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_039",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 410,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_040",
+      "clears": 13,
+      "fork_cuts": 2,
+      "actions": 316,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_041",
+      "clears": 14,
+      "fork_cuts": 11,
+      "actions": 315,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_042",
+      "clears": 15,
+      "fork_cuts": 6,
+      "actions": 312,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_043",
+      "clears": 16,
+      "fork_cuts": 60,
+      "actions": 589,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_044",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_045",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 381,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_046",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 372,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_047",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 393,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_000",
+      "clears": 10,
+      "fork_cuts": 4,
+      "actions": 410,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_001",
+      "clears": 11,
+      "fork_cuts": 16,
+      "actions": 422,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_002",
+      "clears": 12,
+      "fork_cuts": 7,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_003",
+      "clears": 13,
+      "fork_cuts": 42,
+      "actions": 571,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_004",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 275,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_005",
+      "clears": 15,
+      "fork_cuts": 4,
+      "actions": 233,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_006",
+      "clears": 16,
+      "fork_cuts": 18,
+      "actions": 401,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_007",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 411,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_008",
+      "clears": 12,
+      "fork_cuts": 8,
+      "actions": 379,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_009",
+      "clears": 13,
+      "fork_cuts": 9,
+      "actions": 340,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_010",
+      "clears": 14,
+      "fork_cuts": 1,
+      "actions": 294,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_011",
+      "clears": 15,
+      "fork_cuts": 24,
+      "actions": 505,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_012",
+      "clears": 16,
+      "fork_cuts": 4,
+      "actions": 159,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_013",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 302,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_014",
+      "clears": 11,
+      "fork_cuts": 9,
+      "actions": 414,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_015",
+      "clears": 12,
+      "fork_cuts": 10,
+      "actions": 426,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_016",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 318,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_017",
+      "clears": 15,
+      "fork_cuts": 12,
+      "actions": 319,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_018",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 306,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_019",
+      "clears": 10,
+      "fork_cuts": 26,
+      "actions": 523,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_020",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_021",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 300,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_022",
+      "clears": 13,
+      "fork_cuts": 13,
+      "actions": 352,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_023",
+      "clears": 14,
+      "fork_cuts": 7,
+      "actions": 359,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_024",
+      "clears": 16,
+      "fork_cuts": 15,
+      "actions": 345,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_025",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 410,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_026",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 352,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_027",
+      "clears": 12,
+      "fork_cuts": 40,
+      "actions": 542,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_028",
+      "clears": 13,
+      "fork_cuts": 2,
+      "actions": 280,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_029",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 265,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_030",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_031",
+      "clears": 16,
+      "fork_cuts": 15,
+      "actions": 365,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_032",
+      "clears": 11,
+      "fork_cuts": 14,
+      "actions": 391,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_033",
+      "clears": 12,
+      "fork_cuts": 12,
+      "actions": 405,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_034",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 307,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_035",
+      "clears": 14,
+      "fork_cuts": 34,
+      "actions": 522,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_036",
+      "clears": 15,
+      "fork_cuts": 8,
+      "actions": 261,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_037",
+      "clears": 16,
+      "fork_cuts": 4,
+      "actions": 118,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_038",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 405,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_039",
+      "clears": 11,
+      "fork_cuts": 9,
+      "actions": 404,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_040",
+      "clears": 13,
+      "fork_cuts": 7,
+      "actions": 331,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_041",
+      "clears": 14,
+      "fork_cuts": 13,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_042",
+      "clears": 15,
+      "fork_cuts": 1,
+      "actions": 299,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_043",
+      "clears": 16,
+      "fork_cuts": 53,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_044",
+      "clears": 10,
+      "fork_cuts": 6,
+      "actions": 350,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_045",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 390,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_046",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 389,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_047",
+      "clears": 13,
+      "fork_cuts": 21,
+      "actions": 423,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_048",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 282,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_049",
+      "clears": 16,
+      "fork_cuts": 24,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_050",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_051",
+      "clears": 11,
+      "fork_cuts": 31,
+      "actions": 518,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_052",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 313,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_053",
+      "clears": 13,
+      "fork_cuts": 9,
+      "actions": 310,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_054",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 385,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_055",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 426,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_056",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_057",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 386,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_058",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 318,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_059",
+      "clears": 13,
+      "fork_cuts": 51,
+      "actions": 562,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_060",
+      "clears": 14,
+      "fork_cuts": 10,
+      "actions": 257,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_061",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 218,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_062",
+      "clears": 16,
+      "fork_cuts": 7,
+      "actions": 288,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_063",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 403,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_064",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 346,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_065",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 336,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_066",
+      "clears": 14,
+      "fork_cuts": 1,
+      "actions": 304,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_067",
+      "clears": 15,
+      "fork_cuts": 40,
+      "actions": 531,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_068",
+      "clears": 16,
+      "fork_cuts": 10,
+      "actions": 149,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_069",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 329,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_070",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 400,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_071",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_072",
+      "clears": 14,
+      "fork_cuts": 8,
+      "actions": 342,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_073",
+      "clears": 15,
+      "fork_cuts": 5,
+      "actions": 342,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_074",
+      "clears": 16,
+      "fork_cuts": 1,
+      "actions": 197,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_075",
+      "clears": 10,
+      "fork_cuts": 26,
+      "actions": 516,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_076",
+      "clears": 11,
+      "fork_cuts": 10,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_077",
+      "clears": 12,
+      "fork_cuts": 10,
+      "actions": 289,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_078",
+      "clears": 13,
+      "fork_cuts": 10,
+      "actions": 401,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_079",
+      "clears": 14,
+      "fork_cuts": 10,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_080",
+      "clears": 16,
+      "fork_cuts": 5,
+      "actions": 310,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_081",
+      "clears": 10,
+      "fork_cuts": 23,
+      "actions": 452,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_082",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 364,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_083",
+      "clears": 12,
+      "fork_cuts": 44,
+      "actions": 547,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_084",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 287,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_085",
+      "clears": 14,
+      "fork_cuts": 15,
+      "actions": 317,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_086",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_087",
+      "clears": 16,
+      "fork_cuts": 12,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_088",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_089",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_090",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 338,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_091",
+      "clears": 14,
+      "fork_cuts": 45,
+      "actions": 547,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_092",
+      "clears": 15,
+      "fork_cuts": 12,
+      "actions": 256,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_093",
+      "clears": 16,
+      "fork_cuts": 6,
+      "actions": 308,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_094",
+      "clears": 10,
+      "fork_cuts": 1,
+      "actions": 396,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_095",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 371,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_096",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 323,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_097",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 343,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_098",
+      "clears": 15,
+      "fork_cuts": 0,
+      "actions": 288,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_099",
+      "clears": 16,
+      "fork_cuts": 61,
+      "actions": 573,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_100",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 333,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_101",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 306,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_102",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_103",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_104",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 305,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_105",
+      "clears": 16,
+      "fork_cuts": 11,
+      "actions": 271,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_106",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 350,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_107",
+      "clears": 11,
+      "fork_cuts": 40,
+      "actions": 559,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_108",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 292,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_109",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 293,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_110",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 338,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_111",
+      "clears": 15,
+      "fork_cuts": 21,
+      "actions": 426,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_112",
+      "clears": 10,
+      "fork_cuts": 1,
+      "actions": 365,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_113",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 327,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_114",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 316,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_115",
+      "clears": 13,
+      "fork_cuts": 36,
+      "actions": 532,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_116",
+      "clears": 14,
+      "fork_cuts": 7,
+      "actions": 266,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_117",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 356,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_118",
+      "clears": 16,
+      "fork_cuts": 6,
+      "actions": 343,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_119",
+      "clears": 10,
+      "fork_cuts": 12,
+      "actions": 472,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_120",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 350,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_121",
+      "clears": 13,
+      "fork_cuts": 7,
+      "actions": 355,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_122",
+      "clears": 14,
+      "fork_cuts": 0,
+      "actions": 303,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_123",
+      "clears": 15,
+      "fork_cuts": 58,
+      "actions": 568,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_124",
+      "clears": 16,
+      "fork_cuts": 17,
+      "actions": 191,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_125",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 331,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_126",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 407,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation\\Q4_FORK_VIEWS\\hash\\case_127",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 393,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_000",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_001",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 406,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_002",
+      "clears": 12,
+      "fork_cuts": 8,
+      "actions": 323,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_003",
+      "clears": 15,
+      "fork_cuts": 8,
+      "actions": 380,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_004",
+      "clears": 12,
+      "fork_cuts": 9,
+      "actions": 370,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_005",
+      "clears": 15,
+      "fork_cuts": 5,
+      "actions": 350,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_006",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 98,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_007",
+      "clears": 13,
+      "fork_cuts": 17,
+      "actions": 383,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_008",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 367,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_009",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 307,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_010",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 327,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_011",
+      "clears": 12,
+      "fork_cuts": 9,
+      "actions": 370,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_012",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_013",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 404,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_014",
+      "clears": 13,
+      "fork_cuts": 2,
+      "actions": 271,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_015",
+      "clears": 10,
+      "fork_cuts": 6,
+      "actions": 421,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_016",
+      "clears": 16,
+      "fork_cuts": 10,
+      "actions": 293,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_017",
+      "clears": 13,
+      "fork_cuts": 7,
+      "actions": 368,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_018",
+      "clears": 10,
+      "fork_cuts": 4,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_fixed\\Q4_FORK_VIEWS\\hash\\case_019",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 402,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_000",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 361,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_001",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 373,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_002",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 265,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_003",
+      "clears": 15,
+      "fork_cuts": 0,
+      "actions": 334,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_004",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 322,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_005",
+      "clears": 15,
+      "fork_cuts": 0,
+      "actions": 276,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_006",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 89,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_007",
+      "clears": 13,
+      "fork_cuts": 0,
+      "actions": 317,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_008",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 334,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_009",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 204,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_010",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 300,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_011",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 315,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_012",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_013",
+      "clears": 15,
+      "fork_cuts": 0,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_014",
+      "clears": 13,
+      "fork_cuts": 0,
+      "actions": 231,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_015",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 395,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_016",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 178,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_017",
+      "clears": 13,
+      "fork_cuts": 0,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_018",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 299,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_omni\\Q4_FORK_VIEWS\\hash\\case_019",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 355,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_000",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 359,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_001",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 451,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_002",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 350,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_003",
+      "clears": 13,
+      "fork_cuts": 40,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_004",
+      "clears": 14,
+      "fork_cuts": 8,
+      "actions": 283,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_005",
+      "clears": 15,
+      "fork_cuts": 2,
+      "actions": 216,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_006",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 334,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_007",
+      "clears": 10,
+      "fork_cuts": 8,
+      "actions": 422,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_008",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_009",
+      "clears": 13,
+      "fork_cuts": 3,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_010",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 293,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_011",
+      "clears": 15,
+      "fork_cuts": 41,
+      "actions": 561,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_012",
+      "clears": 16,
+      "fork_cuts": 32,
+      "actions": 191,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_013",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 407,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_014",
+      "clears": 11,
+      "fork_cuts": 13,
+      "actions": 456,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_015",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 386,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_016",
+      "clears": 14,
+      "fork_cuts": 11,
+      "actions": 326,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_017",
+      "clears": 15,
+      "fork_cuts": 21,
+      "actions": 393,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_018",
+      "clears": 16,
+      "fork_cuts": 1,
+      "actions": 208,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_019",
+      "clears": 10,
+      "fork_cuts": 38,
+      "actions": 528,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_020",
+      "clears": 11,
+      "fork_cuts": 12,
+      "actions": 330,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_021",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 360,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_022",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 387,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_023",
+      "clears": 14,
+      "fork_cuts": 4,
+      "actions": 370,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_024",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 305,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_025",
+      "clears": 10,
+      "fork_cuts": 6,
+      "actions": 386,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_026",
+      "clears": 11,
+      "fork_cuts": 1,
+      "actions": 385,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_027",
+      "clears": 12,
+      "fork_cuts": 37,
+      "actions": 558,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_028",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 299,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_029",
+      "clears": 14,
+      "fork_cuts": 3,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_030",
+      "clears": 15,
+      "fork_cuts": 8,
+      "actions": 368,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_031",
+      "clears": 16,
+      "fork_cuts": 23,
+      "actions": 439,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_032",
+      "clears": 11,
+      "fork_cuts": 1,
+      "actions": 347,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_033",
+      "clears": 12,
+      "fork_cuts": 17,
+      "actions": 384,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_034",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_035",
+      "clears": 14,
+      "fork_cuts": 56,
+      "actions": 562,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_036",
+      "clears": 15,
+      "fork_cuts": 16,
+      "actions": 278,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_037",
+      "clears": 16,
+      "fork_cuts": 11,
+      "actions": 142,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_038",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 406,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_039",
+      "clears": 11,
+      "fork_cuts": 14,
+      "actions": 475,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_040",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_041",
+      "clears": 14,
+      "fork_cuts": 13,
+      "actions": 360,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_042",
+      "clears": 15,
+      "fork_cuts": 6,
+      "actions": 346,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_043",
+      "clears": 16,
+      "fork_cuts": 48,
+      "actions": 542,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_044",
+      "clears": 10,
+      "fork_cuts": 8,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_045",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 394,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_046",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 401,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_047",
+      "clears": 13,
+      "fork_cuts": 3,
+      "actions": 437,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_048",
+      "clears": 15,
+      "fork_cuts": 13,
+      "actions": 322,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_049",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 337,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_050",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 357,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_051",
+      "clears": 11,
+      "fork_cuts": 33,
+      "actions": 517,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_052",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_053",
+      "clears": 13,
+      "fork_cuts": 3,
+      "actions": 381,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_054",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 355,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_055",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_056",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 375,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_057",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_058",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_059",
+      "clears": 13,
+      "fork_cuts": 40,
+      "actions": 533,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_060",
+      "clears": 14,
+      "fork_cuts": 23,
+      "actions": 292,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_061",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 356,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_062",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 379,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_positive\\Q4_FORK_VIEWS\\positive\\case_063",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 433,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_000",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 364,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_001",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 455,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_002",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 342,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_003",
+      "clears": 13,
+      "fork_cuts": 43,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_004",
+      "clears": 14,
+      "fork_cuts": 13,
+      "actions": 275,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_005",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 305,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_006",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 326,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_007",
+      "clears": 10,
+      "fork_cuts": 10,
+      "actions": 426,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_008",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 351,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_009",
+      "clears": 13,
+      "fork_cuts": 0,
+      "actions": 347,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_010",
+      "clears": 14,
+      "fork_cuts": 3,
+      "actions": 287,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_011",
+      "clears": 15,
+      "fork_cuts": 53,
+      "actions": 581,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_012",
+      "clears": 16,
+      "fork_cuts": 23,
+      "actions": 175,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_013",
+      "clears": 10,
+      "fork_cuts": 10,
+      "actions": 420,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_014",
+      "clears": 11,
+      "fork_cuts": 10,
+      "actions": 421,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_015",
+      "clears": 12,
+      "fork_cuts": 9,
+      "actions": 390,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_016",
+      "clears": 14,
+      "fork_cuts": 12,
+      "actions": 316,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_017",
+      "clears": 15,
+      "fork_cuts": 19,
+      "actions": 389,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_018",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 256,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_019",
+      "clears": 10,
+      "fork_cuts": 42,
+      "actions": 541,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_020",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 305,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_021",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_022",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 381,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_023",
+      "clears": 14,
+      "fork_cuts": 10,
+      "actions": 381,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_024",
+      "clears": 16,
+      "fork_cuts": 8,
+      "actions": 296,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_025",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 384,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_026",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 337,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_027",
+      "clears": 12,
+      "fork_cuts": 50,
+      "actions": 583,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_028",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 285,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_029",
+      "clears": 14,
+      "fork_cuts": 8,
+      "actions": 326,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_030",
+      "clears": 15,
+      "fork_cuts": 12,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_031",
+      "clears": 16,
+      "fork_cuts": 20,
+      "actions": 432,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_032",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 344,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_033",
+      "clears": 12,
+      "fork_cuts": 7,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_034",
+      "clears": 13,
+      "fork_cuts": 3,
+      "actions": 359,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_035",
+      "clears": 14,
+      "fork_cuts": 59,
+      "actions": 568,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_036",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 254,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_037",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 137,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_038",
+      "clears": 10,
+      "fork_cuts": 8,
+      "actions": 409,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_039",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 459,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_040",
+      "clears": 13,
+      "fork_cuts": 3,
+      "actions": 364,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_041",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 368,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_042",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 347,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_043",
+      "clears": 16,
+      "fork_cuts": 60,
+      "actions": 563,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_044",
+      "clears": 10,
+      "fork_cuts": 14,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_045",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 380,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_046",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_047",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 442,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_048",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 330,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_049",
+      "clears": 16,
+      "fork_cuts": 11,
+      "actions": 312,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_050",
+      "clears": 10,
+      "fork_cuts": 4,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_051",
+      "clears": 11,
+      "fork_cuts": 40,
+      "actions": 530,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_052",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 331,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_053",
+      "clears": 13,
+      "fork_cuts": 3,
+      "actions": 385,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_054",
+      "clears": 14,
+      "fork_cuts": 4,
+      "actions": 359,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_055",
+      "clears": 15,
+      "fork_cuts": 12,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_056",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 380,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_057",
+      "clears": 11,
+      "fork_cuts": 13,
+      "actions": 373,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_058",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 388,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_059",
+      "clears": 13,
+      "fork_cuts": 40,
+      "actions": 536,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_060",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 280,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_061",
+      "clears": 15,
+      "fork_cuts": 8,
+      "actions": 360,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_062",
+      "clears": 16,
+      "fork_cuts": 22,
+      "actions": 396,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_negative\\Q4_FORK_VIEWS\\negative\\case_063",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 431,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_000",
+      "clears": 10,
+      "fork_cuts": 4,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_001",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 450,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_002",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 346,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_003",
+      "clears": 13,
+      "fork_cuts": 41,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_004",
+      "clears": 14,
+      "fork_cuts": 12,
+      "actions": 287,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_005",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 303,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_006",
+      "clears": 16,
+      "fork_cuts": 3,
+      "actions": 323,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_007",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 418,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_008",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 352,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_009",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 349,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_010",
+      "clears": 14,
+      "fork_cuts": 4,
+      "actions": 293,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_011",
+      "clears": 15,
+      "fork_cuts": 42,
+      "actions": 564,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_012",
+      "clears": 16,
+      "fork_cuts": 26,
+      "actions": 186,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_013",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 414,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_014",
+      "clears": 11,
+      "fork_cuts": 16,
+      "actions": 464,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_015",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 382,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_016",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 320,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_017",
+      "clears": 15,
+      "fork_cuts": 24,
+      "actions": 400,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_018",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 252,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_019",
+      "clears": 10,
+      "fork_cuts": 40,
+      "actions": 533,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_020",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 330,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_021",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 352,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_022",
+      "clears": 13,
+      "fork_cuts": 11,
+      "actions": 391,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_023",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_024",
+      "clears": 16,
+      "fork_cuts": 10,
+      "actions": 302,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_025",
+      "clears": 10,
+      "fork_cuts": 6,
+      "actions": 418,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_026",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 339,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_027",
+      "clears": 12,
+      "fork_cuts": 36,
+      "actions": 554,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_028",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 281,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_029",
+      "clears": 14,
+      "fork_cuts": 3,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_030",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_031",
+      "clears": 16,
+      "fork_cuts": 20,
+      "actions": 419,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_032",
+      "clears": 11,
+      "fork_cuts": 2,
+      "actions": 347,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_033",
+      "clears": 12,
+      "fork_cuts": 14,
+      "actions": 391,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_034",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 364,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_035",
+      "clears": 14,
+      "fork_cuts": 57,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_036",
+      "clears": 15,
+      "fork_cuts": 21,
+      "actions": 284,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_037",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 129,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_038",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 407,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_039",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 455,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_040",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_041",
+      "clears": 14,
+      "fork_cuts": 10,
+      "actions": 355,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_042",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 349,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_043",
+      "clears": 16,
+      "fork_cuts": 50,
+      "actions": 547,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_044",
+      "clears": 10,
+      "fork_cuts": 11,
+      "actions": 368,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_045",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 393,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_046",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 395,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_047",
+      "clears": 13,
+      "fork_cuts": 4,
+      "actions": 431,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_048",
+      "clears": 15,
+      "fork_cuts": 15,
+      "actions": 326,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_049",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 341,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_050",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 382,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_051",
+      "clears": 11,
+      "fork_cuts": 33,
+      "actions": 514,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_052",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_053",
+      "clears": 13,
+      "fork_cuts": 4,
+      "actions": 383,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_054",
+      "clears": 14,
+      "fork_cuts": 4,
+      "actions": 352,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_055",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 359,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_056",
+      "clears": 10,
+      "fork_cuts": 8,
+      "actions": 384,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_057",
+      "clears": 11,
+      "fork_cuts": 9,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_058",
+      "clears": 12,
+      "fork_cuts": 7,
+      "actions": 368,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_059",
+      "clears": 13,
+      "fork_cuts": 37,
+      "actions": 524,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_060",
+      "clears": 14,
+      "fork_cuts": 21,
+      "actions": 298,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_061",
+      "clears": 15,
+      "fork_cuts": 5,
+      "actions": 348,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_062",
+      "clears": 16,
+      "fork_cuts": 17,
+      "actions": 388,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_checker\\Q4_FORK_VIEWS\\checker\\case_063",
+      "clears": 10,
+      "fork_cuts": 11,
+      "actions": 438,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_000",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 365,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_001",
+      "clears": 11,
+      "fork_cuts": 11,
+      "actions": 461,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_002",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 341,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_003",
+      "clears": 13,
+      "fork_cuts": 42,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_004",
+      "clears": 14,
+      "fork_cuts": 22,
+      "actions": 276,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_005",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 219,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_006",
+      "clears": 16,
+      "fork_cuts": 5,
+      "actions": 328,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_007",
+      "clears": 10,
+      "fork_cuts": 10,
+      "actions": 420,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_008",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_009",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 402,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_010",
+      "clears": 14,
+      "fork_cuts": 9,
+      "actions": 308,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_011",
+      "clears": 15,
+      "fork_cuts": 43,
+      "actions": 570,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_012",
+      "clears": 16,
+      "fork_cuts": 28,
+      "actions": 190,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_013",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 409,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_014",
+      "clears": 11,
+      "fork_cuts": 19,
+      "actions": 465,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_015",
+      "clears": 12,
+      "fork_cuts": 7,
+      "actions": 384,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_016",
+      "clears": 14,
+      "fork_cuts": 15,
+      "actions": 329,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_017",
+      "clears": 15,
+      "fork_cuts": 17,
+      "actions": 387,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_018",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 257,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_019",
+      "clears": 10,
+      "fork_cuts": 39,
+      "actions": 531,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_020",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_021",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 357,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_022",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_023",
+      "clears": 14,
+      "fork_cuts": 4,
+      "actions": 368,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_024",
+      "clears": 16,
+      "fork_cuts": 12,
+      "actions": 278,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_025",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 388,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_026",
+      "clears": 11,
+      "fork_cuts": 2,
+      "actions": 388,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_027",
+      "clears": 12,
+      "fork_cuts": 43,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_028",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 293,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_029",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 327,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_030",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 375,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_031",
+      "clears": 16,
+      "fork_cuts": 19,
+      "actions": 426,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_032",
+      "clears": 11,
+      "fork_cuts": 2,
+      "actions": 349,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_033",
+      "clears": 12,
+      "fork_cuts": 7,
+      "actions": 365,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_034",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 352,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_035",
+      "clears": 14,
+      "fork_cuts": 56,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_036",
+      "clears": 15,
+      "fork_cuts": 14,
+      "actions": 272,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_037",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 137,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_038",
+      "clears": 10,
+      "fork_cuts": 6,
+      "actions": 404,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_039",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 450,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_040",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_041",
+      "clears": 14,
+      "fork_cuts": 12,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_042",
+      "clears": 15,
+      "fork_cuts": 2,
+      "actions": 312,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_043",
+      "clears": 16,
+      "fork_cuts": 50,
+      "actions": 543,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_044",
+      "clears": 10,
+      "fork_cuts": 14,
+      "actions": 371,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_045",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_046",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 396,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_047",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 439,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_048",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 330,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_049",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 339,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_050",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_051",
+      "clears": 11,
+      "fork_cuts": 35,
+      "actions": 521,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_052",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 361,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_053",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 389,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_054",
+      "clears": 14,
+      "fork_cuts": 7,
+      "actions": 376,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_055",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_056",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 372,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_057",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 359,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_058",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 365,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_059",
+      "clears": 13,
+      "fork_cuts": 39,
+      "actions": 531,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_060",
+      "clears": 14,
+      "fork_cuts": 19,
+      "actions": 274,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_061",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 358,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_062",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 380,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_stress_smooth\\Q4_FORK_VIEWS\\smooth\\case_063",
+      "clears": 10,
+      "fork_cuts": 1,
+      "actions": 427,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_000",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 418,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_001",
+      "clears": 11,
+      "fork_cuts": 17,
+      "actions": 425,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_002",
+      "clears": 12,
+      "fork_cuts": 7,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_003",
+      "clears": 13,
+      "fork_cuts": 42,
+      "actions": 541,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_004",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 275,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_005",
+      "clears": 15,
+      "fork_cuts": 4,
+      "actions": 233,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_006",
+      "clears": 16,
+      "fork_cuts": 18,
+      "actions": 399,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_007",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 414,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_008",
+      "clears": 12,
+      "fork_cuts": 8,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_009",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 337,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_010",
+      "clears": 14,
+      "fork_cuts": 1,
+      "actions": 294,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_011",
+      "clears": 15,
+      "fork_cuts": 24,
+      "actions": 498,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_012",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 168,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_013",
+      "clears": 10,
+      "fork_cuts": 0,
+      "actions": 301,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_014",
+      "clears": 11,
+      "fork_cuts": 9,
+      "actions": 399,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_015",
+      "clears": 12,
+      "fork_cuts": 14,
+      "actions": 414,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_016",
+      "clears": 14,
+      "fork_cuts": 4,
+      "actions": 337,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_017",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 340,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_018",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 317,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_019",
+      "clears": 10,
+      "fork_cuts": 25,
+      "actions": 528,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_020",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 320,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_021",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 322,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_022",
+      "clears": 13,
+      "fork_cuts": 13,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_023",
+      "clears": 14,
+      "fork_cuts": 8,
+      "actions": 332,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_024",
+      "clears": 16,
+      "fork_cuts": 15,
+      "actions": 289,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_025",
+      "clears": 10,
+      "fork_cuts": 7,
+      "actions": 415,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_026",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 345,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_027",
+      "clears": 12,
+      "fork_cuts": 40,
+      "actions": 570,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_028",
+      "clears": 13,
+      "fork_cuts": 2,
+      "actions": 280,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_029",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 265,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_030",
+      "clears": 15,
+      "fork_cuts": 10,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_031",
+      "clears": 16,
+      "fork_cuts": 16,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_032",
+      "clears": 11,
+      "fork_cuts": 11,
+      "actions": 385,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_033",
+      "clears": 12,
+      "fork_cuts": 10,
+      "actions": 403,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_034",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 307,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_035",
+      "clears": 14,
+      "fork_cuts": 34,
+      "actions": 519,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_036",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 245,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_037",
+      "clears": 16,
+      "fork_cuts": 4,
+      "actions": 120,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_038",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 405,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_039",
+      "clears": 11,
+      "fork_cuts": 14,
+      "actions": 407,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_040",
+      "clears": 13,
+      "fork_cuts": 7,
+      "actions": 336,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_041",
+      "clears": 14,
+      "fork_cuts": 13,
+      "actions": 321,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_042",
+      "clears": 15,
+      "fork_cuts": 1,
+      "actions": 299,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_043",
+      "clears": 16,
+      "fork_cuts": 54,
+      "actions": 585,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_044",
+      "clears": 10,
+      "fork_cuts": 4,
+      "actions": 346,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_045",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 394,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_046",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 389,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_047",
+      "clears": 13,
+      "fork_cuts": 21,
+      "actions": 423,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_048",
+      "clears": 15,
+      "fork_cuts": 2,
+      "actions": 280,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_049",
+      "clears": 16,
+      "fork_cuts": 22,
+      "actions": 345,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_050",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_051",
+      "clears": 11,
+      "fork_cuts": 31,
+      "actions": 539,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_052",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 316,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_053",
+      "clears": 13,
+      "fork_cuts": 9,
+      "actions": 310,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_054",
+      "clears": 14,
+      "fork_cuts": 7,
+      "actions": 381,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_055",
+      "clears": 15,
+      "fork_cuts": 9,
+      "actions": 319,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_056",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 382,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_057",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 371,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_058",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 317,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_059",
+      "clears": 13,
+      "fork_cuts": 52,
+      "actions": 565,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_060",
+      "clears": 14,
+      "fork_cuts": 10,
+      "actions": 256,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_061",
+      "clears": 15,
+      "fork_cuts": 3,
+      "actions": 218,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_062",
+      "clears": 16,
+      "fork_cuts": 4,
+      "actions": 285,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_063",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 383,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_064",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 346,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_065",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 336,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_066",
+      "clears": 14,
+      "fork_cuts": 3,
+      "actions": 294,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_067",
+      "clears": 15,
+      "fork_cuts": 40,
+      "actions": 546,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_068",
+      "clears": 16,
+      "fork_cuts": 10,
+      "actions": 152,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_069",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 338,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_070",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 400,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_071",
+      "clears": 12,
+      "fork_cuts": 11,
+      "actions": 341,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_072",
+      "clears": 14,
+      "fork_cuts": 8,
+      "actions": 343,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_073",
+      "clears": 15,
+      "fork_cuts": 5,
+      "actions": 342,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_074",
+      "clears": 16,
+      "fork_cuts": 1,
+      "actions": 198,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_075",
+      "clears": 10,
+      "fork_cuts": 30,
+      "actions": 531,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_076",
+      "clears": 11,
+      "fork_cuts": 11,
+      "actions": 339,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_077",
+      "clears": 12,
+      "fork_cuts": 10,
+      "actions": 287,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_078",
+      "clears": 13,
+      "fork_cuts": 10,
+      "actions": 400,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_079",
+      "clears": 14,
+      "fork_cuts": 10,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_080",
+      "clears": 16,
+      "fork_cuts": 5,
+      "actions": 310,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_081",
+      "clears": 10,
+      "fork_cuts": 22,
+      "actions": 450,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_082",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 364,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_083",
+      "clears": 12,
+      "fork_cuts": 44,
+      "actions": 546,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_084",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 282,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_085",
+      "clears": 14,
+      "fork_cuts": 15,
+      "actions": 317,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_086",
+      "clears": 15,
+      "fork_cuts": 4,
+      "actions": 348,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_087",
+      "clears": 16,
+      "fork_cuts": 12,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_088",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 366,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_089",
+      "clears": 12,
+      "fork_cuts": 4,
+      "actions": 360,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_090",
+      "clears": 13,
+      "fork_cuts": 6,
+      "actions": 339,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_091",
+      "clears": 14,
+      "fork_cuts": 46,
+      "actions": 567,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_092",
+      "clears": 15,
+      "fork_cuts": 12,
+      "actions": 250,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_093",
+      "clears": 16,
+      "fork_cuts": 5,
+      "actions": 329,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_094",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 396,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_095",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 371,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_096",
+      "clears": 13,
+      "fork_cuts": 5,
+      "actions": 323,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_097",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 344,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_098",
+      "clears": 15,
+      "fork_cuts": 2,
+      "actions": 279,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_099",
+      "clears": 16,
+      "fork_cuts": 61,
+      "actions": 569,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_100",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 333,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_101",
+      "clears": 11,
+      "fork_cuts": 12,
+      "actions": 353,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_102",
+      "clears": 12,
+      "fork_cuts": 5,
+      "actions": 377,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_103",
+      "clears": 13,
+      "fork_cuts": 0,
+      "actions": 375,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_104",
+      "clears": 15,
+      "fork_cuts": 8,
+      "actions": 321,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_105",
+      "clears": 16,
+      "fork_cuts": 9,
+      "actions": 267,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_106",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 349,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_107",
+      "clears": 11,
+      "fork_cuts": 38,
+      "actions": 556,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_108",
+      "clears": 12,
+      "fork_cuts": 10,
+      "actions": 319,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_109",
+      "clears": 13,
+      "fork_cuts": 4,
+      "actions": 292,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_110",
+      "clears": 14,
+      "fork_cuts": 11,
+      "actions": 384,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_111",
+      "clears": 15,
+      "fork_cuts": 21,
+      "actions": 426,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_112",
+      "clears": 10,
+      "fork_cuts": 1,
+      "actions": 365,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_113",
+      "clears": 11,
+      "fork_cuts": 4,
+      "actions": 328,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_114",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 339,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_115",
+      "clears": 13,
+      "fork_cuts": 36,
+      "actions": 542,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_116",
+      "clears": 14,
+      "fork_cuts": 8,
+      "actions": 268,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_117",
+      "clears": 15,
+      "fork_cuts": 7,
+      "actions": 363,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_118",
+      "clears": 16,
+      "fork_cuts": 3,
+      "actions": 338,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_119",
+      "clears": 10,
+      "fork_cuts": 12,
+      "actions": 473,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_120",
+      "clears": 12,
+      "fork_cuts": 3,
+      "actions": 350,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_121",
+      "clears": 13,
+      "fork_cuts": 7,
+      "actions": 355,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_122",
+      "clears": 14,
+      "fork_cuts": 0,
+      "actions": 303,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_123",
+      "clears": 15,
+      "fork_cuts": 57,
+      "actions": 570,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_124",
+      "clears": 16,
+      "fork_cuts": 18,
+      "actions": 187,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_125",
+      "clears": 10,
+      "fork_cuts": 2,
+      "actions": 331,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_126",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 405,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_validation_py312\\Q4_FORK_VIEWS\\hash\\case_127",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 392,
+      "failures": 0
+    }
+  ]
+}

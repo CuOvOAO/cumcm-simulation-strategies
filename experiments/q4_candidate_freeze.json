@@ -1,0 +1,14 @@
+{
+  "variant": "Q4_FORK_VIEWS",
+  "source_hashes": {
+    "q4\\__init__.py": "7f6a06531581e3dc8fc30aec78bed39d3babd228e750ad2dc564ba623a56b991",
+    "q4\\controller.py": "ff6420e44d8d1765dd13cd09b3705eb489f0d548b1da312e585864273c131c96",
+    "q4\\geometry.py": "1819d57dcf69516850f9c83a2832da92411a5b8b79d3ba70f436f496120e01e9",
+    "q4\\simulator.py": "7f9cfc403302c7862ca22e8c114e8ad99581f38b9f302c6c72f2fe795154d1aa",
+    "strategies\\d\\geometry.py": "0b89116a274de06ca989fda6aeab3dd99b35d1ff13befe7e78f204569c09b503"
+  },
+  "frozen_at": "2026-09-11T17:33:59.177467+00:00",
+  "development_cases": 48,
+  "validation_seen": false,
+  "selection_reason": "All 622 sources cleared, macro 568.65, P95 775.68, independent Decimal audit passed; topology orientation test fixed without changing views."
+}

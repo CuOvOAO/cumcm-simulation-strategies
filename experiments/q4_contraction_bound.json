@@ -1,0 +1,10 @@
+{
+  "arithmetic": "exact rational coefficients; analytic sin/cos Taylor bounds",
+  "inequalities": {"positive_endpoint":["892827102641/6250000000000","188031807/12500000000","99/250000"],"positive_origin":["413682233/1250000000","174491/5000000","23/25000"],"both_negative":["83025156120448599/250000000000000000","8739745059/250000000000","23/25000"]},
+  "radius_upper_after_round": [1504.0,767.041,391.19191,199.5088741,101.750525791,51.89376815341,26.4668217582391,13.49907909670194,6.88553033931799],
+  "measurement_bound": 1252,
+  "total_action_bound": 1268,
+  "movement_bound_m": 635930,
+  "virtual_time_bound_s": 134778.0,
+  "scope": "Real-arithmetic geometry with relaxed support lines; not a formal certificate for IEEE/libm or HTTP availability."
+}

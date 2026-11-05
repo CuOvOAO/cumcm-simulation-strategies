@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" fill="#f8fafc"/>
+<g font-family="Segoe UI, Arial" fill="#0f172a">
+<text x="35" y="42" font-size="22" font-weight="600">Q4: visibility cover and certified fork</text>
+<text x="35" y="80" font-size="17">25 viewpoints / 36 triangles</text>
+<polygon points="270.0,290.0 374.895,290.0 360.8417347299687,237.5525" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="374.895,290.0 459.0510027212964,239.34393649253465 360.8417347299687,237.5525" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="459.0510027212964,340.65606350746555 459.0510027212964,239.34393649253465 374.895,290.0" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 360.8417347299687,237.5525 322.4475,199.15826527003134" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="360.8417347299687,237.5525 408.3949392138311,151.6050607861689 322.4475,199.15826527003134" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="459.0510027212964,239.34393649253465 408.3949392138311,151.6050607861689 360.8417347299687,237.5525" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 322.4475,199.15826527003134 270.0,185.10500000000002" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="322.4475,199.15826527003134 320.6560635074654,100.94899727870356 270.0,185.10500000000002" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="408.3949392138311,151.6050607861689 320.6560635074654,100.94899727870356 322.4475,199.15826527003134" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 270.0,185.10500000000002 217.5525,199.1582652700313" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,185.10500000000002 219.34393649253468,100.94899727870356 217.5525,199.1582652700313" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="320.6560635074654,100.94899727870356 219.34393649253468,100.94899727870356 270.0,185.10500000000002" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 217.5525,199.1582652700313 179.1582652700313,237.5525" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="217.5525,199.1582652700313 131.60506078616893,151.6050607861689 179.1582652700313,237.5525" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="219.34393649253468,100.94899727870356 131.60506078616893,151.6050607861689 217.5525,199.1582652700313" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 179.1582652700313,237.5525 165.10500000000002,290.0" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="179.1582652700313,237.5525 80.94899727870359,239.3439364925346 165.10500000000002,290.0" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="131.60506078616893,151.6050607861689 80.94899727870359,239.3439364925346 179.1582652700313,237.5525" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 165.10500000000002,290.0 179.15826527003128,342.4475" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="165.10500000000002,290.0 80.94899727870356,340.6560635074654 179.15826527003128,342.4475" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="80.94899727870359,239.3439364925346 80.94899727870356,340.6560635074654 165.10500000000002,290.0" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 179.15826527003128,342.4475 217.55249999999995,380.84173472996866" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="179.15826527003128,342.4475 131.60506078616885,428.394939213831 217.55249999999995,380.84173472996866" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="80.94899727870356,340.6560635074654 131.60506078616885,428.394939213831 179.15826527003128,342.4475" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 217.55249999999995,380.84173472996866 270.0,394.895" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="217.55249999999995,380.84173472996866 219.34393649253468,479.0510027212964 270.0,394.895" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="131.60506078616885,428.394939213831 219.34393649253468,479.0510027212964 217.55249999999995,380.84173472996866" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 270.0,394.895 322.4475,380.84173472996866" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,394.895 320.65606350746526,479.05100272129647 322.4475,380.84173472996866" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="219.34393649253468,479.0510027212964 320.65606350746526,479.05100272129647 270.0,394.895" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 322.4475,380.84173472996866 360.84173472996866,342.44750000000005" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="322.4475,380.84173472996866 408.39493921383104,428.3949392138311 360.84173472996866,342.44750000000005" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="320.65606350746526,479.05100272129647 408.39493921383104,428.3949392138311 322.4475,380.84173472996866" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="270.0,290.0 360.84173472996866,342.44750000000005 374.895,290.0" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="360.84173472996866,342.44750000000005 459.0510027212964,340.65606350746555 374.895,290.0" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<polygon points="408.39493921383104,428.3949392138311 459.0510027212964,340.65606350746555 360.84173472996866,342.44750000000005" fill="none" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="270" cy="290" r="189" fill="#dbeafe" fill-opacity="0.4" stroke="#2563eb" stroke-width="2"/>
+<circle cx="270.0" cy="290.0" r="3.5" fill="#0f766e"/>
+<circle cx="374.895" cy="290.0" r="3.5" fill="#0f766e"/>
+<circle cx="360.8417347299687" cy="237.5525" r="3.5" fill="#0f766e"/>
+<circle cx="322.4475" cy="199.15826527003134" r="3.5" fill="#0f766e"/>
+<circle cx="270.0" cy="185.10500000000002" r="3.5" fill="#0f766e"/>
+<circle cx="217.5525" cy="199.1582652700313" r="3.5" fill="#0f766e"/>
+<circle cx="179.1582652700313" cy="237.5525" r="3.5" fill="#0f766e"/>
+<circle cx="165.10500000000002" cy="290.0" r="3.5" fill="#0f766e"/>
+<circle cx="179.15826527003128" cy="342.4475" r="3.5" fill="#0f766e"/>
+<circle cx="217.55249999999995" cy="380.84173472996866" r="3.5" fill="#0f766e"/>
+<circle cx="270.0" cy="394.895" r="3.5" fill="#0f766e"/>
+<circle cx="322.4475" cy="380.84173472996866" r="3.5" fill="#0f766e"/>
+<circle cx="360.84173472996866" cy="342.44750000000005" r="3.5" fill="#0f766e"/>
+<circle cx="459.0510027212964" cy="239.34393649253465" r="3.5" fill="#0f766e"/>
+<circle cx="408.3949392138311" cy="151.6050607861689" r="3.5" fill="#0f766e"/>
+<circle cx="320.6560635074654" cy="100.94899727870356" r="3.5" fill="#0f766e"/>
+<circle cx="219.34393649253468" cy="100.94899727870356" r="3.5" fill="#0f766e"/>
+<circle cx="131.60506078616893" cy="151.6050607861689" r="3.5" fill="#0f766e"/>
+<circle cx="80.94899727870359" cy="239.3439364925346" r="3.5" fill="#0f766e"/>
+<circle cx="80.94899727870356" cy="340.6560635074654" r="3.5" fill="#0f766e"/>
+<circle cx="131.60506078616885" cy="428.394939213831" r="3.5" fill="#0f766e"/>
+<circle cx="219.34393649253468" cy="479.0510027212964" r="3.5" fill="#0f766e"/>
+<circle cx="320.65606350746526" cy="479.05100272129647" r="3.5" fill="#0f766e"/>
+<circle cx="408.39493921383104" cy="428.3949392138311" r="3.5" fill="#0f766e"/>
+<circle cx="459.0510027212964" cy="340.65606350746555" r="3.5" fill="#0f766e"/>
+<text x="55" y="504" font-size="14">Arena R=1800 m; every triangle diameter &lt;1000 m</text>
+<text x="610" y="80" font-size="17">A positive anchor makes negative feedback useful</text>
+<polygon points="640,290 1105,208.4 1105,371.6" fill="#dbeafe" stroke="#2563eb"/>
+<polygon points="872.5,249.2 1105,208.4 1105,371.6 872.5,330.8" fill="#fecaca" fill-opacity="0.8"/>
+<line x1="620" y1="290" x2="1140" y2="290" stroke="#64748b" stroke-dasharray="5,5"/>
+<line x1="872.5" y1="220" x2="872.5" y2="360" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="640" cy="290" r="5" fill="#0f766e"/>
+<circle cx="872.5" cy="249.2" r="5" fill="#b91c1c"/>
+<circle cx="872.5" cy="330.8" r="5" fill="#b91c1c"/>
+<text x="620" y="325" font-size="15">P (positive)</text>
+<text x="884" y="240" font-size="15">Q+</text><text x="884" y="354" font-size="15">Q-</text>
+<text x="955" y="283" font-size="15">x &gt;= t</text>
+<text x="955" y="306" font-size="15">excluded if both silent</text>
+<text x="620" y="410" font-size="16">w = t tan(1.005 deg) + 0.0001 m</text>
+<text x="620" y="441" font-size="16">For x &gt;= t: one probe is visible and both are in range.</text>
+<text x="620" y="472" font-size="14">Vertical scale exaggerated 10x; schematic, not case truth.</text>
+</g></svg>

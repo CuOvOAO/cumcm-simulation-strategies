@@ -1,0 +1,346 @@
+{
+  "cases": 48,
+  "clears": 622,
+  "fork_cuts": 571,
+  "actions": 17573,
+  "failures": 0,
+  "precision": 50,
+  "rows": [
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_000",
+      "clears": 10,
+      "fork_cuts": 3,
+      "actions": 372,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_001",
+      "clears": 11,
+      "fork_cuts": 8,
+      "actions": 367,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_002",
+      "clears": 12,
+      "fork_cuts": 0,
+      "actions": 324,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_003",
+      "clears": 13,
+      "fork_cuts": 50,
+      "actions": 561,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_004",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 273,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_005",
+      "clears": 15,
+      "fork_cuts": 11,
+      "actions": 234,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_006",
+      "clears": 16,
+      "fork_cuts": 13,
+      "actions": 378,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_007",
+      "clears": 10,
+      "fork_cuts": 5,
+      "actions": 460,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_008",
+      "clears": 12,
+      "fork_cuts": 17,
+      "actions": 395,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_009",
+      "clears": 13,
+      "fork_cuts": 18,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_010",
+      "clears": 14,
+      "fork_cuts": 5,
+      "actions": 313,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_011",
+      "clears": 15,
+      "fork_cuts": 49,
+      "actions": 569,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_012",
+      "clears": 16,
+      "fork_cuts": 20,
+      "actions": 190,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_013",
+      "clears": 10,
+      "fork_cuts": 11,
+      "actions": 332,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_014",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 396,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_015",
+      "clears": 12,
+      "fork_cuts": 6,
+      "actions": 367,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_016",
+      "clears": 14,
+      "fork_cuts": 6,
+      "actions": 371,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_017",
+      "clears": 15,
+      "fork_cuts": 15,
+      "actions": 338,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_018",
+      "clears": 16,
+      "fork_cuts": 0,
+      "actions": 224,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_019",
+      "clears": 10,
+      "fork_cuts": 29,
+      "actions": 526,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_020",
+      "clears": 11,
+      "fork_cuts": 3,
+      "actions": 318,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_021",
+      "clears": 12,
+      "fork_cuts": 2,
+      "actions": 410,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_022",
+      "clears": 13,
+      "fork_cuts": 13,
+      "actions": 402,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_023",
+      "clears": 14,
+      "fork_cuts": 14,
+      "actions": 369,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_024",
+      "clears": 16,
+      "fork_cuts": 12,
+      "actions": 335,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_025",
+      "clears": 10,
+      "fork_cuts": 8,
+      "actions": 392,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_026",
+      "clears": 11,
+      "fork_cuts": 0,
+      "actions": 326,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_027",
+      "clears": 12,
+      "fork_cuts": 30,
+      "actions": 505,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_028",
+      "clears": 13,
+      "fork_cuts": 1,
+      "actions": 341,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_029",
+      "clears": 14,
+      "fork_cuts": 2,
+      "actions": 265,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_030",
+      "clears": 15,
+      "fork_cuts": 4,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_031",
+      "clears": 16,
+      "fork_cuts": 7,
+      "actions": 300,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_032",
+      "clears": 11,
+      "fork_cuts": 5,
+      "actions": 360,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_033",
+      "clears": 12,
+      "fork_cuts": 15,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_034",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 342,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_035",
+      "clears": 14,
+      "fork_cuts": 42,
+      "actions": 547,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_036",
+      "clears": 15,
+      "fork_cuts": 0,
+      "actions": 257,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_037",
+      "clears": 16,
+      "fork_cuts": 2,
+      "actions": 114,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_038",
+      "clears": 10,
+      "fork_cuts": 10,
+      "actions": 434,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_039",
+      "clears": 11,
+      "fork_cuts": 6,
+      "actions": 410,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_040",
+      "clears": 13,
+      "fork_cuts": 2,
+      "actions": 316,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_041",
+      "clears": 14,
+      "fork_cuts": 11,
+      "actions": 315,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_042",
+      "clears": 15,
+      "fork_cuts": 6,
+      "actions": 312,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_043",
+      "clears": 16,
+      "fork_cuts": 60,
+      "actions": 589,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_044",
+      "clears": 10,
+      "fork_cuts": 9,
+      "actions": 362,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_045",
+      "clears": 11,
+      "fork_cuts": 7,
+      "actions": 381,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_046",
+      "clears": 12,
+      "fork_cuts": 1,
+      "actions": 372,
+      "failures": 0
+    },
+    {
+      "path": "results\\q4_selected_dev\\Q4_FORK_VIEWS\\hash\\case_047",
+      "clears": 13,
+      "fork_cuts": 8,
+      "actions": 393,
+      "failures": 0
+    }
+  ]
+}

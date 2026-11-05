@@ -1,0 +1,24 @@
+{
+  "python_310_syntax_files": 13,
+  "runtime_api_methods": [
+    "measure",
+    "clear"
+  ],
+  "source_freeze_matches": true,
+  "frozen_paths_unchanged": [
+    "simulator.py",
+    "run.py",
+    "q3",
+    "strategies/d",
+    "FINAL_Q1_Q2",
+    "cases"
+  ],
+  "tests_root": 22,
+  "tests_inherited": 74,
+  "generators_reproduce_under_python312": true,
+  "validation_runner_verified_cases": 8,
+  "cross_python_trajectories_identical": false,
+  "python312_validation_mean": 567.5008959005177,
+  "independent_decimal_runs": 600,
+  "independent_decimal_clears": 7756
+}
